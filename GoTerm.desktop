@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GoTerm
+Comment=My Go Terminal Emulator
+Exec=goterm
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;
+StartupNotify=true
